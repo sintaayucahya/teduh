@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161060383312",
+    "project_id": "mobile-teduh-86055",
+    "storage_bucket": "mobile-teduh-86055.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161060383312:android:138c841d909a0fc1cebf55",
+        "android_client_info": {
+          "package_name": "com.example.teduh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161060383312-4s5jqj3nnodp1gqf9u3ars265l3r74jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6KZoj78cqNkBgb5rMx9HOd06w1pgBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161060383312-4s5jqj3nnodp1gqf9u3ars265l3r74jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
