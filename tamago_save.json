@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-11-03T14:32:46.226Z",
+  "saved_at": "2026-11-04T06:51:03.283Z",
   "tama": {
     "name": "Pochi",
     "hunger": 35,
@@ -15,7 +15,7 @@
     "pissed_of": false,
     "overweight": false,
     "underweight": false,
-    "last_saved": "2026-11-03T14:32:46.226Z",
+    "last_saved": "2026-11-04T06:51:03.283Z",
     "xp": 120,
     "level": 3,
     "stage": 1,
@@ -197,19 +197,19 @@
         "quest_id": "daily_feed",
         "status": "active",
         "baseline": 26,
-        "started_at": "2026-11-03T14:21:46.457Z"
+        "started_at": "2026-11-04T01:54:41.609Z"
       },
       {
         "quest_id": "daily_water",
         "status": "active",
         "baseline": 16,
-        "started_at": "2026-11-03T14:21:46.457Z"
+        "started_at": "2026-11-04T01:54:41.609Z"
       },
       {
         "quest_id": "daily_pet",
         "status": "active",
         "baseline": 28,
-        "started_at": "2026-11-03T14:21:46.457Z"
+        "started_at": "2026-11-04T01:54:41.609Z"
       },
       {
         "quest_id": "exterminador",
@@ -243,7 +243,7 @@
       }
     ],
     "total_quests_done": 0,
-    "last_daily_reset": "2026-11-03T14:21:46.457Z",
+    "last_daily_reset": "2026-11-04T01:54:41.609Z",
     "total_enemies_defeated": 0
   },
   "inventory": {}
